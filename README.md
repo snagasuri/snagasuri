@@ -2,7 +2,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="picture.jpg" alt="alt text" width="300" />
-  <img src="me_and_bo.jpg" alt="alt text" width="300" />
+  <img src="me_and_bo.jpeg" alt="alt text" width="300" />
 </div>
 
 hi, my name is sriram! i'm passionate about using technology to make practical solutions at scale. check out some of my personal projects below.
