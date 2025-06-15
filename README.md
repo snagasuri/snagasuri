@@ -1,7 +1,7 @@
 # welcome to my GitHub!
 
 <div style="display: flex; gap: 10px;">
-  <img src="picture.jpg" alt="alt text" width="300" />
+  <img src="profilepicture.jpg" alt="alt text" width="300" />
   <img src="me_and_bo.jpeg" alt="alt text" width="300" />
 </div>
 
